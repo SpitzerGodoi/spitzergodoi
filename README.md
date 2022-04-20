@@ -18,5 +18,5 @@
   <a href="https://www.postgresql.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="pgsql" width="40"    height="40"/> </a>
 </div>
   
-![Snake animation](https://github.com/rafaballerini/SpitzerGodoi/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/SpitzerGodoi/SpitzerGodoi/blob/output/github-contribution-grid-snake.svg)
   
