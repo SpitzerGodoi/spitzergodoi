@@ -18,5 +18,12 @@
   <a href="https://www.postgresql.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="pgsql" width="40"    height="40"/> </a>
 </div>
   
+  ##
+  
+  <div>
+   <a href = "mailto:leandro_spitzer@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/leandro-spitzer-godoi-55b6a222a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  </div>
+  
 ![Snake animation](https://github.com/SpitzerGodoi/SpitzerGodoi/blob/output/github-contribution-grid-snake.svg)
   
