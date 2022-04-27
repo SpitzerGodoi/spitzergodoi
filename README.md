@@ -1,4 +1,4 @@
-### Olá! Eu sou o Leandro, estudante de Desenvolvimento Web FullStack na BlueEdtech 👋
+### Olá! Eu sou o Leandro, estudante de Desenvolvimento Web FullStack 👋
 
 <div>
   <a href="https://github.com/spitzergodoi">
