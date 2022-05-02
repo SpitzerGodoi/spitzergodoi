@@ -6,8 +6,8 @@
 </div>
   
 <div>
-  <a href="https://github.com/spitzergodoi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spitzergodoi&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/SpitzerGodoi">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpitzerGodoi&layout=compact&langs_count=7&theme=dark"/>
 </div>    
  
 <div>
