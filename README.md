@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Leandro, estudante de Desenvolvimento Web FullStack 👋
 
 <div>
-  <a href="https://github.com/spitzergodoi">
+  <a href="https://github.com/SpitzerGodoi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=spitzergodoi&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
   
